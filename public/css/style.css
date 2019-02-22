@@ -1,0 +1,34 @@
+.flex {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+td
+a {
+    margin: auto;
+}
+
+td {
+    text-align: center;
+}
+
+thead {
+    font-weight: bold;
+}
+
+table {
+    margin-top: 30px;
+}
+
+body {
+    margin: 45px 135px;
+}
+
+.footer
+a {
+    color: red;
+    padding-left: 20px;
+}
